@@ -1,0 +1,6 @@
+# Ignore the following files (e.g. downloaded dataset)
+cifar10/data
+
+
+# Ignore files
+*.pyc
