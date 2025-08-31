@@ -1,5 +1,6 @@
 # Ignore the following files (e.g. downloaded dataset)
 cifar10/data
+S&P 500 Stock Data/data
 
 
 # Ignore files
