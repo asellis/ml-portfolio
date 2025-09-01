@@ -6,3 +6,4 @@ This repository serves as a portfolio showcasing my machine learning projects an
 
 *   **CIFAR-10**:  A dataset of 60,000 32x32 color images in 10 classes, used for image classification tasks. [https://www.cs.toronto.edu/~kriz/cifar.html]
 *   **S&P 500 Stock Data**: Stock data provided by Yahoo to perform regression on future stock prices.
+*   **IMDB**: Movie reviews with sentiment labels (positive/negative).
