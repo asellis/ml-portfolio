@@ -2,6 +2,8 @@
 cifar10/data
 S&P 500 Stock Data/data
 
+# Ignore folders where the model is saved
+**/model/
 
 # Ignore files
 *.pyc
