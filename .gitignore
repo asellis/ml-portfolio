@@ -4,6 +4,7 @@ S&P 500 Stock Data/data
 
 # Ignore folders where the model is saved
 **/model/
+**/trainer_output/
 
 # Ignore files
 *.pyc
